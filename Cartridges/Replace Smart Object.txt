@@ -1,0 +1,4 @@
+Place the script in "%Photoshop root%\Presets\Scripts" - make sure the smart object
+is selected in the layers panel and choose the script from "Files>Scripts>Replace
+Smart Object". All target images MUST be the same size and dpi as the current
+content.
