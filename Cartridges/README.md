@@ -43,4 +43,4 @@ If you have any problems or have questions, please post in my LanchBox thread,
 
 [https://forums.launchbox-app.com/topic/60095-duimons-vector-cartridge-templates/](https://forums.launchbox-app.com/topic/60095-duimons-vector-cartridge-templates/)
 
-I will answer ASAP
+I will answer ASAP.:smile:
