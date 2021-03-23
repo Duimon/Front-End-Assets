@@ -1,6 +1,6 @@
 # Game Boy Color
 
-This template is the same size and ration as the Game Boy template and the output can be used in the SGB templates as source.
+This template is the same size and ration as the Game Boy template and the output can be used in the SGB templates as source, and uses (By default) the same EmuMovies collection as it's source.
 
 The main thing that separates this template from the others is the three adjustment layers.
 
