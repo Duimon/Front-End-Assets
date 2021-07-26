@@ -24,7 +24,7 @@
      showgrid="false"
      inkscape:zoom="1.7962649"
      inkscape:cx="294.22164"
-     inkscape:cy="175.08554"
+     inkscape:cy="175.08553"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="1912"
@@ -32,7 +32,8 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="gamecube" />
   <g
-     id="g115">
+     id="g115"
+     inkscape:label="gc">
     <g
        id="body">
       <g
