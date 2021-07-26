@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   width="494.86"
+   height="82.35"
+   viewBox="0 0 494.86 82.35"
+   version="1.1"
+   sodipodi:docname="system-01.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.1379785"
+     inkscape:cx="247.19613"
+     inkscape:cy="41.394243"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <g
+     id="g10"
+     inkscape:label="xbox">
+    <path
+       d="m 472.68,0 h 22.18 L 444.1,41.17 494.86,82.35 H 472.68 L 432.91,50 393.33,82.35 H 371 L 422,41.17 371,0 h 22.38 l 39.58,32.18 z M 364.35,41.17 c 0,18.19 -4.79,32 -14,41.18 H 269 C 259.4,73.15 254.61,59.56 254.61,41.17 254.61,22.78 259.42,9.2 269,0 h 81.34 c 9.2,9.2 14,22.79 14,41.17 z m -13.59,0 A 52.45,52.45 0 0 0 343,13.59 h -66.79 a 52.45,52.45 0 0 0 -7.79,27.58 48.75,48.75 0 0 0 4,19.19 l 3.8,8.6 H 343 l 3.79,-8.6 a 52.18,52.18 0 0 0 4,-19.19 z m -116.92,3.4 6,3.4 c -1.4,15.19 -6,26.58 -13.79,34.38 H 144.7 c -7.79,-7.6 -12.59,-19 -13.79,-34.38 H 117.72 V 34.38 h 13.19 c 1.2,-15.39 6,-27 13.79,-34.38 h 81.35 c 7.79,7.6 12.39,19.19 13.79,34.58 l -6,3.2 z m -15.19,-31 H 152.1 a 54.9,54.9 0 0 0 -7.4,20.79 h 81.35 a 58.52,58.52 0 0 0 -7.4,-20.79 z M 226.05,48 H 144.7 a 55.87,55.87 0 0 0 7.4,21 h 66.55 a 59.56,59.56 0 0 0 7.4,-21 z M 73,41.17 123.72,0 H 101.33 L 61.76,32.18 22,0 H 0 L 50.57,41.17 0,82.35 H 22 L 61.76,50 101.33,82.38 h 22.39 z"
+       style="fill:#95be47"
+       id="path2"
+       inkscape:label="logo" />
+  </g>
+</svg>
