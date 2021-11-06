@@ -1,6 +1,3 @@
-# Front-End-Assets
-This repo will contain various assets for front-ends, starting with cartridges. The source can be found in a separate repo.
-
 ### LICENSE
 *******************
 All the assets, including documentation and code, are published under the 'Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)' Creative Commons license.
