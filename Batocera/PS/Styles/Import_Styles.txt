@@ -1,0 +1,1 @@
+The styles need to be imported in the styles panel. They will not show up if they are just moved to the folder.
