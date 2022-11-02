@@ -50,7 +50,7 @@ HSM_FLIP_VIEWPORT_VERTICAL = "0"
 HSM_FLIP_VIEWPORT_HORIZONTAL = "0"
 HSM_FLIP_CORE_VERTICAL = "0"
 HSM_FLIP_CORE_HORIZONTAL = "0"
-HSM_ROTATE_CORE_IMAGE ="0"
+HSM_ROTATE_CORE_IMAGE = "0"
 
 //---------------------------------------------------------------------------------------------------
 //    ASPECT RATIO
