@@ -6,9 +6,11 @@
 //    CRT BRIGHTNESS & GAMMA
 //---------------------------------------------------------------------------------------------------
 
-HSM_RESOLUTION_DEBUG_ON = "0"
-HSM_POST_CRT_BRIGHTNESS = "100"
-HSM_POST_CRT_BRIGHTNESS_AFFECT_BLACK_LEVEL = "100"
+HSM_RESOLUTION_DEBUG_ON = "1"
+GAMMA_INPUT = "2.4"
+gamma_out = "2.4"
+post_br = "1"
+post_br_affect_black_level = "100"
 
 //---------------------------------------------------------------------------------------------------
 //    Global Graphics Caching
