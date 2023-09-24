@@ -1,0 +1,5 @@
+#reference ":/shaders/shaders_slang/crt/crt-guest-advanced.slangp"
+warpX = "0.050000"
+warpY = "0.050000"
+c_shape = "0.600000"
+shadowMask = "7.000000"
