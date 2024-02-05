@@ -1,0 +1,5 @@
+Copy these folders into %Appdata%\AdobeAdobe Photoshop %year%\Presets\
+
+Additionally, you may need to import the actions and styles.
+
+After installation, the script can be found at "Menu>>File>>Scripts>>Replace Smart Object"and can be assigned a keyboard shortcut.

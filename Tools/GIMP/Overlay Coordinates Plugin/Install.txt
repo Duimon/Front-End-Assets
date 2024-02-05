@@ -1,0 +1,6 @@
+On Windows, go to the folder GIMP is installed in (usually somewhere in Program
+Files). Once in the GIMP main folder navigate to lib\gimp\*version*\ where as
+*version* represents the version of Gimp. Then double click the "plug-ins"
+folder.
+
+Copy the "coordinates.py" file to that folder.
